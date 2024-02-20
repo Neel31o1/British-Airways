@@ -12,3 +12,8 @@ This repository contains the code and resources for a Tableau dashboard project 
 3) Data Collaboration: Close collaboration with cross-functional teams ensured accurate data aggregation, alignment with organizational objectives, and implementation of advanced visualization techniques.
 
 4) Data Analysis and Quality Assurance: Rigorous data analysis and quality assurance processes were conducted to validate data integrity, refine visualization designs, and deliver a user-friendly and insightful dashboard experience.
+
+## License
+
+This project is licensed under the [[Humber College Institute of Technology & Advanced Learning](https://humber.ca/legal-and-risk-management/assets/files/pdfs/policy_academic_pdfs/Copyright%20Policy%20FINAL%202022-1.pdf)], reflecting our commitment to an open and collaborative approach.
+
